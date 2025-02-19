@@ -9,7 +9,7 @@ def HOMEPAGE():
     
     
 @app.route('/index')
-def loan():
+def home():
     return render_template('index.html')
     
 @app.route('/about')
