@@ -1,0 +1,34 @@
+title {
+   background-color: blue;   
+   text-align: Center; 
+}
+body {
+       
+    background-color: purple;
+   text-align: Center; 
+}
+h1 {
+  color: orange;
+  font-family: voice-family;
+  text-align: Center; 
+}
+p {
+  color: grey;
+  border: 2px solid powderblue;
+  font-family: courier;
+  text-align: Center; 
+}
+
+a:link,
+a:visited {
+  background-color: green;
+  color: black;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: blue;
+}
